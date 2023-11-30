@@ -1,4 +1,6 @@
 # SimpleCalculator
+Author: Abdul Mutalib Mulla
+
 This is a simple calculator project 
 This project is biult usign HTML, CSS, JavaScript.
 Steps to run this project
