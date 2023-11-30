@@ -1,6 +1,6 @@
 # SimpleCalculator
 
-Author: <h1> Abdul Mutalib Mulla </h1>
+Author: Abdul Mutalib Mulla
 
 This is a simple calculator project
 This project is biult usign HTML, CSS, JavaScript.
